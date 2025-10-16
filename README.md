@@ -1,5 +1,5 @@
 # Data-Analyst-profile-projects
-This folder includes my projects as a data analyst.
+This folder includes my projects as a data analyst. This folder only contains the final analysis reports. 
 
 Here is the list of the projects with the executive summary:
 
